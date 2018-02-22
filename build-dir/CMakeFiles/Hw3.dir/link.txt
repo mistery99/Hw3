@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O0 -g3 -Wall -Wextra    CMakeFiles/Hw3.dir/filesystem.cpp.o CMakeFiles/Hw3.dir/process.cpp.o CMakeFiles/Hw3.dir/c++lang.cpp.o CMakeFiles/Hw3.dir/main.cpp.o  -o Hw3 -rdynamic 
